@@ -16,7 +16,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-remote_theme: brockfanning/jekyll-uswds@workaround-github-remote-theme-problem
+remote_theme: brockfanning/uswds-jekyll@workaround-github-remote-theme-problem
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
