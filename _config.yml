@@ -20,7 +20,7 @@ remote_theme: brockfanning/uswds-jekyll@workaround-github-remote-theme-problem
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
-github_test:
+github_info:
   organization: brockfanning
   repository: adr-test
   default_branch: master
