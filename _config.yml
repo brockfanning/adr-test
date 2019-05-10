@@ -16,16 +16,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
+remote_theme: 18F/jekyll-uswds
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
-github:
-  organization: brockfanning
-  repository: adr-test
-  default_branch: master
+#github:
+#  organization: brockfanning
+#  repository: adr-test
+#  default_branch: master
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
